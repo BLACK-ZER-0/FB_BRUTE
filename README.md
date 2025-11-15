@@ -9,7 +9,7 @@ pkg upgarde
 
 pkg install git 
 
-git clone https://github.com/ADIRTTA/FB_BRUTE.git
+git clone https://github.com/BLACK-ZER-0/FB_BRUTE.git
 
 cd FB_BRUTE
 
